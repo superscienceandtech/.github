@@ -2,51 +2,58 @@
 
 # SUPER SCIENCE & TECH
 
-### Science, Engineering & Open Innovation
+### Engineering intelligent systems. Building useful technology.
 
-**AI Research · AGI Research · Quantum Computing · Space Technology · Software Engineering**
+Custom software · AI-powered solutions · Web applications · Digital products
 
-[Organization](https://github.com/superscienceandtech) · [Company Handbook](https://github.com/superscienceandtech/super-science-tech-handbook)
+[Explore our work](https://github.com/superscienceandtech?tab=repositories) &nbsp; · &nbsp; [Discuss a project](https://github.com/superscienceandtechagency)
 
 </div>
 
 ---
 
-## About Us
+## What we do
 
-Super Science & Tech explores advanced technology, scientific research, software engineering, and open-source innovation.
+Our public agency profile describes work across:
 
-We aim to build useful technology, document our engineering practices, and support collaborative research and development.
+- **Custom software**
+- **AI-powered solutions**
+- **Modern web applications**
+- **Scalable digital products**
 
-## Research & Engineering
+Our broader direction brings client engineering, company-owned products, and AI research together.
 
-- **AI & AGI Research** — Intelligent systems, reasoning, simulation, prediction, and planning.
-- **Quantum Computing** — Quantum algorithms, computational models, and quantum-inspired approaches.
-- **Space Technology** — Space-related software, scientific data, and mission-planning concepts.
-- **Software Engineering** — Maintainable software, reliable systems, and documented development workflows.
-- **Open Source** — Shared work, collaboration, and improvement through review and iteration.
+These are the capabilities and pillars described in our [public agency profile](https://github.com/superscienceandtechagency) and [company handbook](https://github.com/superscienceandtech/super-science-tech-handbook). The handbook is a working draft; specific service packages and research commitments are still being confirmed.
 
-## Engineering Principles
+## Selected work
 
-- Build clear, maintainable, and testable software.
-- Document architecture, decisions, and limitations.
-- Validate changes before merging and review work transparently.
-- Protect credentials, user data, and project integrity.
-- Label experimental work and distinguish it from verified results.
+### Engineering & Research Handbook
 
-## Explore Our Work
+A working reference for company context, engineering practices, research workflow, and project guidance. The handbook marks evolving material as draft or proposed so readers can distinguish current guidance from open decisions.
 
-- [Official Company Handbook](https://github.com/superscienceandtech/super-science-tech-handbook) — Strategy, engineering standards, research documentation, and project guidance.
-- [Organization Repositories](https://github.com/orgs/superscienceandtech/repositories) — Browse our GitHub projects.
+[Read the handbook →](https://github.com/superscienceandtech/super-science-tech-handbook)
 
-## Collaborate
+Browse [all public repositories](https://github.com/superscienceandtech?tab=repositories). There are no public software project repositories, client case studies, or live demos available to feature yet.
 
-Interested in science, advanced technology, software engineering, or open-source research? Browse our repositories and handbook to learn more and find opportunities to contribute.
+## How we work
+
+Our handbook’s proposed research lifecycle sets out a disciplined path from question to evidence:
+
+- Frame a research question, hypothesis, baseline, and evaluation plan.
+- Track data provenance, code, configuration, and the environment needed to reproduce a result.
+- Validate outcomes, analyze errors, and document limitations—including negative findings.
+- Record decisions and keep engineering work clear, testable, and maintainable.
+
+[Read our engineering and research guidance →](https://github.com/superscienceandtech/super-science-tech-handbook)
+
+## People & contact
+
+Our public profiles do not yet list named team members, roles, or a monitored project inquiry channel. For now, you can [visit the agency profile](https://github.com/superscienceandtechagency) or [browse the public account](https://github.com/superscienceandtech).
 
 ---
 
 <div align="center">
 
-**Research. Engineer. Validate. Evolve.**
+**Research with rigor. Engineering with purpose.**
 
 </div>

@@ -2,58 +2,67 @@
 
 # SUPER SCIENCE & TECH
 
-### Engineering intelligent systems. Building useful technology.
+### Research the frontier. Build what expands it.
 
-Custom software · AI-powered solutions · Web applications · Digital products
+**Intelligent systems · Quantum computing · Space technology**
 
-[Explore our work](https://github.com/superscienceandtech?tab=repositories) &nbsp; · &nbsp; [Discuss a project](https://github.com/superscienceandtechagency)
+[Explore public work](https://github.com/superscienceandtech?tab=repositories) &nbsp; · &nbsp; [Company profile](https://github.com/superscienceandtech)
 
 </div>
 
 ---
 
-## What we do
+## Mission & vision
 
-Our public agency profile describes work across:
+**Mission** — Advance foundational research and build useful technology for complex challenges.
 
-- **Custom software**
-- **AI-powered solutions**
-- **Modern web applications**
-- **Scalable digital products**
+**Vision** — Expand what humanity can understand and do through intelligent, computational, and space technologies.
 
-Our broader direction brings client engineering, company-owned products, and AI research together.
+## AGI & advanced intelligence
 
-These are the capabilities and pillars described in our [public agency profile](https://github.com/superscienceandtechagency) and [company handbook](https://github.com/superscienceandtech/super-science-tech-handbook). The handbook is a working draft; specific service packages and research commitments are still being confirmed.
+AGI is a research ambition, not a claim of current capability. Our stated research directions include reasoning, simulation, prediction, planning, and the continuous learning and evolution of intelligent systems.
 
-## Selected work
+## Quantum computing
 
-### Engineering & Research Handbook
+We are interested in quantum algorithms, quantum-inspired computing, and computational research. These are research directions; no hardware capability or quantum advantage is claimed here.
 
-A working reference for company context, engineering practices, research workflow, and project guidance. The handbook marks evolving material as draft or proposed so readers can distinguish current guidance from open decisions.
+## Space technology
 
-[Read the handbook →](https://github.com/superscienceandtech/super-science-tech-handbook)
+Our research interests include space intelligence, mission planning, simulation, and scientific data systems. These describe areas to explore, not deployed platforms.
 
-Browse [all public repositories](https://github.com/superscienceandtech?tab=repositories). There are no public software project repositories, client case studies, or live demos available to feature yet.
+## Scientific & biomedical research
 
-## How we work
+We feature scientific or biomedical work only when it is approved and publicly documented. No approved study is currently linked from the public repositories reviewed.
 
-Our handbook’s proposed research lifecycle sets out a disciplined path from question to evidence:
+## Core platforms & products
 
-- Frame a research question, hypothesis, baseline, and evaluation plan.
-- Track data provenance, code, configuration, and the environment needed to reproduce a result.
-- Validate outcomes, analyze errors, and document limitations—including negative findings.
-- Record decisions and keep engineering work clear, testable, and maintainable.
+No public platform or product repository is currently available to feature. We will list products here only when their repositories and supporting materials are approved for public release.
 
-[Read our engineering and research guidance →](https://github.com/superscienceandtech/super-science-tech-handbook)
+## Research methodology
 
-## People & contact
+We aim to make research claims traceable and testable:
 
-Our public profiles do not yet list named team members, roles, or a monitored project inquiry channel. For now, you can [visit the agency profile](https://github.com/superscienceandtechagency) or [browse the public account](https://github.com/superscienceandtech).
+- State the question, hypothesis, and baseline.
+- Plan evaluation before experiments and record the methods and configurations.
+- Reproduce results where feasible, measure outcomes, and analyze errors.
+- Report limitations and negative findings; document enough for others to assess the work.
+
+## Engineering principles
+
+We value modular design, risk-appropriate testing, security and privacy by default, maintainable systems, clear documentation, and responsible disclosure.
+
+## Explore our work
+
+[Browse public repositories](https://github.com/superscienceandtech?tab=repositories). We have no approved public product demos or software case studies to feature at this time.
+
+## Company & collaboration
+
+Read the [company handbook](https://github.com/superscienceandtech/super-science-tech-handbook) for company context and collaboration guidance; draft and proposed material is labelled there. Follow the [Super Science & Tech GitHub profile](https://github.com/superscienceandtech) for public updates. Open-source participation will be identified on projects cleared for public collaboration.
 
 ---
 
 <div align="center">
 
-**Research with rigor. Engineering with purpose.**
+**Advance understanding. Build for what’s next.**
 
 </div>

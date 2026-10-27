@@ -53,7 +53,7 @@ We value modular design, risk-appropriate testing, security and privacy by defau
 
 ## Team
 
-<!-- Portraits are omitted until each page-numbered image can be verified against Members Bio.pdf. -->
+<!-- Portraits in the gallery below remain unassigned until member identities are verified. -->
 
 ### Leadership
 
@@ -99,6 +99,43 @@ We value modular design, risk-appropriate testing, security and privacy by defau
 | Wahaj Rashid Arian | Research Collaborator |
 | Mahidul Haque | Research Collaborator |
 | Probal Datta | Research Collaborator |
+
+### Unmatched team photo gallery
+
+These portraits are shown as a neutral inventory. Source page labels do not identify the people pictured. The page 21 image is identical to page 12, so it is represented once.
+
+<table>
+  <tr>
+    <td align="center"><img src="../assests/team_photos/page-01-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 01"><br>Source page 01</td>
+    <td align="center"><img src="../assests/team_photos/page-02-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 02"><br>Source page 02</td>
+    <td align="center"><img src="../assests/team_photos/page-04-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 04"><br>Source page 04</td>
+    <td align="center"><img src="../assests/team_photos/page-05-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 05"><br>Source page 05</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="../assests/team_photos/page-06-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 06"><br>Source page 06</td>
+    <td align="center"><img src="../assests/team_photos/page-07-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 07"><br>Source page 07</td>
+    <td align="center"><img src="../assests/team_photos/page-08-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 08"><br>Source page 08</td>
+    <td align="center"><img src="../assests/team_photos/page-09-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 09"><br>Source page 09</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="../assests/team_photos/page-10-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 10"><br>Source page 10</td>
+    <td align="center"><img src="../assests/team_photos/page-11-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 11"><br>Source page 11</td>
+    <td align="center"><img src="../assests/team_photos/page-12-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 12"><br>Source page 12</td>
+    <td align="center"><img src="../assests/team_photos/page-13-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 13"><br>Source page 13</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="../assests/team_photos/page-15-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 15"><br>Source page 15</td>
+    <td align="center"><img src="../assests/team_photos/page-16-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 16"><br>Source page 16</td>
+    <td align="center"><img src="../assests/team_photos/page-17-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 17"><br>Source page 17</td>
+    <td align="center"><img src="../assests/team_photos/page-18-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 18"><br>Source page 18</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="../assests/team_photos/page-19-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 19"><br>Source page 19</td>
+    <td align="center"><img src="../assests/team_photos/page-20-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 20"><br>Source page 20</td>
+    <td align="center"><img src="../assests/team_photos/page-22-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 22"><br>Source page 22</td>
+    <td></td>
+  </tr>
+</table>
 
 ## Explore our work
 

@@ -2,7 +2,7 @@
 
 # SUPER SCIENCE & TECH
 
-### Building the Future Through Science, Engineering & Open Innovation
+### Science, Engineering & Open Innovation
 
 **AI Research · AGI Research · Quantum Computing · Space Technology · Software Engineering**
 
@@ -14,35 +14,34 @@
 
 ## About Us
 
-Super Science & Tech is focused on exploring advanced technology, scientific research, software engineering, and open-source innovation.
+Super Science & Tech explores advanced technology, scientific research, software engineering, and open-source innovation.
 
-Our goal is to build useful technology, document our engineering practices, and support collaborative research and development.
+We aim to build useful technology, document our engineering practices, and support collaborative research and development.
 
 ## Research & Engineering
 
-- **AI & AGI Research** — Exploring intelligent systems, reasoning, simulation, prediction, and planning.
-- **Quantum Computing** — Studying quantum algorithms, computational models, and quantum-inspired approaches.
-- **Space Technology** — Exploring space-related software, scientific data, and mission-planning concepts.
-- **Software Engineering** — Building maintainable software, reliable systems, and documented development workflows.
-- **Open Source** — Sharing useful work, encouraging collaboration, and improving projects through review and iteration.
+- **AI & AGI Research** — Intelligent systems, reasoning, simulation, prediction, and planning.
+- **Quantum Computing** — Quantum algorithms, computational models, and quantum-inspired approaches.
+- **Space Technology** — Space-related software, scientific data, and mission-planning concepts.
+- **Software Engineering** — Maintainable software, reliable systems, and documented development workflows.
+- **Open Source** — Shared work, collaboration, and improvement through review and iteration.
 
 ## Engineering Principles
 
-- Prefer clear, maintainable, and testable implementations.
-- Document architecture, design decisions, and limitations.
-- Validate changes before merging.
+- Build clear, maintainable, and testable software.
+- Document architecture, decisions, and limitations.
+- Validate changes before merging and review work transparently.
 - Protect credentials, user data, and project integrity.
-- Use code review and transparent collaboration wherever available.
-- Distinguish verified results from experimental or proposed work.
+- Label experimental work and distinguish it from verified results.
 
 ## Explore Our Work
 
-- [Official Company Handbook](https://github.com/superscienceandtech/super-science-tech-handbook) — Company strategy, engineering standards, research documentation, and project guidance.
-- [Organization Repositories](https://github.com/orgs/superscienceandtech/repositories) — Explore repositories accessible through our GitHub organization.
+- [Official Company Handbook](https://github.com/superscienceandtech/super-science-tech-handbook) — Strategy, engineering standards, research documentation, and project guidance.
+- [Organization Repositories](https://github.com/orgs/superscienceandtech/repositories) — Browse our GitHub projects.
 
 ## Collaborate
 
-Interested in science, advanced technology, software engineering, or open-source research? Explore our public repositories, review the documentation, and contribute where collaboration is available.
+Interested in science, advanced technology, software engineering, or open-source research? Browse our repositories and handbook to learn more and find opportunities to contribute.
 
 ---
 

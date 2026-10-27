@@ -53,6 +53,8 @@ We value modular design, risk-appropriate testing, security and privacy by defau
 
 ## Team
 
+We are a multidisciplinary team working across intelligent systems, software engineering, cybersecurity, scientific computing, design, and research.
+
 <!-- Portraits in the gallery below remain unassigned until member identities are verified. -->
 
 ### Leadership
@@ -102,40 +104,29 @@ We value modular design, risk-appropriate testing, security and privacy by defau
 
 ### Unmatched team photo gallery
 
-These portraits are shown as a neutral inventory. Source page labels do not identify the people pictured. The page 21 image is identical to page 12, so it is represented once.
+These portraits are shown as a neutral inventory. The filenames and alt text identify only the source PDF page, not the person pictured. Page 21 duplicates page 12 and is represented once.
 
-<table>
-  <tr>
-    <td align="center"><img src="../assests/team_photos/page-01-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 01"><br>Source page 01</td>
-    <td align="center"><img src="../assests/team_photos/page-02-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 02"><br>Source page 02</td>
-    <td align="center"><img src="../assests/team_photos/page-04-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 04"><br>Source page 04</td>
-    <td align="center"><img src="../assests/team_photos/page-05-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 05"><br>Source page 05</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="../assests/team_photos/page-06-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 06"><br>Source page 06</td>
-    <td align="center"><img src="../assests/team_photos/page-07-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 07"><br>Source page 07</td>
-    <td align="center"><img src="../assests/team_photos/page-08-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 08"><br>Source page 08</td>
-    <td align="center"><img src="../assests/team_photos/page-09-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 09"><br>Source page 09</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="../assests/team_photos/page-10-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 10"><br>Source page 10</td>
-    <td align="center"><img src="../assests/team_photos/page-11-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 11"><br>Source page 11</td>
-    <td align="center"><img src="../assests/team_photos/page-12-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 12"><br>Source page 12</td>
-    <td align="center"><img src="../assests/team_photos/page-13-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 13"><br>Source page 13</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="../assests/team_photos/page-15-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 15"><br>Source page 15</td>
-    <td align="center"><img src="../assests/team_photos/page-16-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 16"><br>Source page 16</td>
-    <td align="center"><img src="../assests/team_photos/page-17-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 17"><br>Source page 17</td>
-    <td align="center"><img src="../assests/team_photos/page-18-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 18"><br>Source page 18</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="../assests/team_photos/page-19-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 19"><br>Source page 19</td>
-    <td align="center"><img src="../assests/team_photos/page-20-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 20"><br>Source page 20</td>
-    <td align="center"><img src="../assests/team_photos/page-22-photo-01.jpg" width="140" alt="Unmatched team portrait from source PDF page 22"><br>Source page 22</td>
-    <td></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="../assests/team_photos/page-01-photo-01.jpg" width="110" alt="Unmatched team portrait from source PDF page 01">
+  <img src="../assests/team_photos/page-02-photo-01.jpg" width="110" alt="Unmatched team portrait from source PDF page 02">
+  <img src="../assests/team_photos/page-04-photo-01.jpg" width="110" alt="Unmatched team portrait from source PDF page 04">
+  <img src="../assests/team_photos/page-05-photo-01.jpg" width="110" alt="Unmatched team portrait from source PDF page 05">
+  <img src="../assests/team_photos/page-06-photo-01.jpg" width="110" alt="Unmatched team portrait from source PDF page 06">
+  <img src="../assests/team_photos/page-07-photo-01.jpg" width="110" alt="Unmatched team portrait from source PDF page 07">
+  <img src="../assests/team_photos/page-08-photo-01.jpg" width="110" alt="Unmatched team portrait from source PDF page 08">
+  <img src="../assests/team_photos/page-09-photo-01.jpg" width="110" alt="Unmatched team portrait from source PDF page 09">
+  <img src="../assests/team_photos/page-10-photo-01.jpg" width="110" alt="Unmatched team portrait from source PDF page 10">
+  <img src="../assests/team_photos/page-11-photo-01.jpg" width="110" alt="Unmatched team portrait from source PDF page 11">
+  <img src="../assests/team_photos/page-12-photo-01.jpg" width="110" alt="Unmatched team portrait from source PDF page 12">
+  <img src="../assests/team_photos/page-13-photo-01.jpg" width="110" alt="Unmatched team portrait from source PDF page 13">
+  <img src="../assests/team_photos/page-15-photo-01.jpg" width="110" alt="Unmatched team portrait from source PDF page 15">
+  <img src="../assests/team_photos/page-16-photo-01.jpg" width="110" alt="Unmatched team portrait from source PDF page 16">
+  <img src="../assests/team_photos/page-17-photo-01.jpg" width="110" alt="Unmatched team portrait from source PDF page 17">
+  <img src="../assests/team_photos/page-18-photo-01.jpg" width="110" alt="Unmatched team portrait from source PDF page 18">
+  <img src="../assests/team_photos/page-19-photo-01.jpg" width="110" alt="Unmatched team portrait from source PDF page 19">
+  <img src="../assests/team_photos/page-20-photo-01.jpg" width="110" alt="Unmatched team portrait from source PDF page 20">
+  <img src="../assests/team_photos/page-22-photo-01.jpg" width="110" alt="Unmatched team portrait from source PDF page 22">
+</p>
 
 ## Explore our work
 
@@ -152,155 +143,6 @@ Read the [company handbook](https://github.com/superscienceandtech/super-science
 **Advance understanding. Build for what’s next.**
 
 </div>
-
-
-## Our Team
-
-We are a multidisciplinary team working across intelligent systems, software engineering, cybersecurity, scientific computing, design, and research.
-
-### Leadership
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="assets/team/yousuf.jpg" width="140" alt="MD. Yousuf Ali" /><br />
-      <b>MD. Yousuf Ali</b><br />
-      Founder & Chief Developer
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/team/srijon.jpg" width="140" alt="Srijon Dey" /><br />
-      <b>Srijon Dey</b><br />
-      Co-Founder & Senior Developer<br />
-      Cybersecurity Specialist
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/team/sonjoy.jpg" width="140" alt="Sonjoy Das" /><br />
-      <b>Sonjoy Das</b><br />
-      Co-Founder & Senior Developer<br />
-      AI/ML Specialist
-    </td>
-  </tr>
-</table>
-
-### Engineering, AI & Design
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="assets/team/mahtab.jpg" width="140" alt="MD. Mahtab Ahmed Mahin" /><br />
-      <b>MD. Mahtab Ahmed Mahin</b><br />
-      Senior Developer
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/team/shahriar.jpg" width="140" alt="Shahriar Siyam" /><br />
-      <b>Shahriar Siyam</b><br />
-      Senior Developer<br />
-      Data Scientist Specialist
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/team/sobuj.jpg" width="140" alt="Sobuj Dev" /><br />
-      <b>Sobuj Dev</b><br />
-      Senior Graphics & UI/UX Designer
-    </td>
-  </tr>
-</table>
-
-### NASA Space Apps Project Team
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="assets/team/rafiwol.jpg" width="140" alt="MD. Sheik Rafiwol Karim Rafi" /><br />
-      <b>MD. Sheik Rafiwol Karim Rafi</b><br />
-      Intern & NASA Space Apps Project Member
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/team/hridi.jpg" width="140" alt="Hridi Singha" /><br />
-      <b>Hridi Singha</b><br />
-      Intern & NASA Space Apps Project Member
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/team/amran.jpg" width="140" alt="Amran Uddin" /><br />
-      <b>Amran Uddin</b><br />
-      Intern & NASA Space Apps Project Member
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="assets/team/rini.jpg" width="140" alt="Miss. Rini" /><br />
-      <b>Miss. Rini</b><br />
-      Intern & NASA Space Apps Project Member
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/team/mahidul.jpg" width="140" alt="Mahidul Haque" /><br />
-      <b>Mahidul Haque</b><br />
-      Guest Developer & Cybersecurity Specialist
-    </td>
-    <td></td>
-  </tr>
-</table>
-
-### Marketing Team
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="assets/team/seyam.jpg" width="140" alt="MD Abdul Hakim Seyam" /><br />
-      <b>MD Abdul Hakim Seyam</b><br />
-      Marketing Lead
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/team/billal.jpg" width="140" alt="Muhammad Billal Khan" /><br />
-      <b>Muhammad Billal Khan</b><br />
-      Marketing Team Member
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/team/arafat.jpg" width="140" alt="Arafat Hossain" /><br />
-      <b>Arafat Hossain</b><br />
-      Marketing Team Member
-    </td>
-  </tr>
-</table>
-
-### Research Collaborators
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="assets/team/shoumik.jpg" width="140" alt="Shoumik Islam" /><br />
-      <b>Shoumik Islam</b><br />
-      Research Collaborator
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/team/mufti.jpg" width="140" alt="Mufti Faiyaz" /><br />
-      <b>Mufti Faiyaz</b><br />
-      Research Collaborator
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/team/mahfujur.jpg" width="140" alt="Mahfujur Rahman" /><br />
-      <b>Mahfujur Rahman</b><br />
-      Research Collaborator
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="assets/team/wahaj.jpg" width="140" alt="Wahaj Rashid Arian" /><br />
-      <b>Wahaj Rashid Arian</b><br />
-      Research Collaborator
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/team/mahidul-collaborator.jpg" width="140" alt="Mahidul Haque" /><br />
-      <b>Mahidul Haque</b><br />
-      Research Collaborator
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/team/probal.jpg" width="140" alt="Probal Datta" /><br />
-      <b>Probal Datta</b><br />
-      Research Collaborator
-    </td>
-  </tr>
-</table>
-
 ---
 
 *We value interdisciplinary collaboration, responsible engineering, transparent research, and continuous learning.*

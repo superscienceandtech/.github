@@ -51,6 +51,55 @@ We aim to make research claims traceable and testable:
 
 We value modular design, risk-appropriate testing, security and privacy by default, maintainable systems, clear documentation, and responsible disclosure.
 
+## Team
+
+<!-- Portraits are omitted until each page-numbered image can be verified against Members Bio.pdf. -->
+
+### Leadership
+
+| Team member | Role |
+| :--- | :--- |
+| MD. Yousuf Ali | Founder & Chief Developer |
+| Srijon Dey | Co-Founder & Senior Developer; Cyber Security Specialist |
+| Sonjoy Das | Co-Founder & Senior Developer; AI/ML Specialist |
+
+### Engineering, AI & Design
+
+| Team member | Role |
+| :--- | :--- |
+| MD. Mahtab Ahmed Mahin | Senior Developer |
+| Shahriar Siyam | Senior Developer; Data Scientist Specialist |
+| Sobuj Dev | Senior Graphics & UI/UX Designer |
+| Mahidul Haque | Guest Developer & Cyber Security Specialist |
+
+### NASA Space Apps Project Team
+
+| Team member | Role |
+| :--- | :--- |
+| MD. Sheik Rafiwol Karim Rafi | Intern & NASA’26 Space Apps Project Member |
+| Hridi Singha | Intern & NASA’26 Space Apps Project Member |
+| Amran Uddin | Intern & NASA’26 Space Apps Project Member |
+| Miss. Rini | Intern & NASA’26 Space Apps Project Member |
+
+### Marketing Team
+
+| Team member | Role |
+| :--- | :--- |
+| MD Abdul Hakim Seyam | Marketing Lead |
+| Muhammad Billal Khan | Marketing Team Member |
+| Arafat Hossain | Marketing Team Member |
+
+### Research Collaborators
+
+| Team member | Role |
+| :--- | :--- |
+| Shoumik Islam | Research Collaborator |
+| Mufti Faiyaz | Research Collaborator |
+| Mahfujur Rahman | Research Collaborator |
+| Wahaj Rashid Arian | Research Collaborator |
+| Mahidul Haque | Research Collaborator |
+| Probal Datta | Research Collaborator |
+
 ## Explore our work
 
 [Browse public repositories](https://github.com/superscienceandtech?tab=repositories). We have no approved public product demos or software case studies to feature at this time.

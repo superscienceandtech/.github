@@ -63,18 +63,18 @@ A multidisciplinary team united by curiosity, rigor, and a shared drive to expan
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="../assests/team_photos/page-01-photo-01.jpg" width="140" alt="Portrait of MD. Yousuf Ali, Founder & Chief Developer" /><br />
+      <img src="https://raw.githubusercontent.com/superscienceandtech/.github/main/assests/team_photos/page-01-photo-01.jpg" width="140" alt="Portrait of MD. Yousuf Ali, Founder & Chief Developer" /><br />
       <b>MD. Yousuf Ali</b><br />
       Founder & Chief Developer
     </td>
     <td align="center" width="33%">
-      <img src="../assests/team_photos/page-02-photo-01.jpg" width="140" alt="Portrait of Srijon Dey, Co-Founder & Senior Developer; Cybersecurity Specialist" /><br />
+      <img src="https://raw.githubusercontent.com/superscienceandtech/.github/main/assests/team_photos/page-02-photo-01.jpg" width="140" alt="Portrait of Srijon Dey, Co-Founder & Senior Developer; Cybersecurity Specialist" /><br />
       <b>Srijon Dey</b><br />
       Co-Founder & Senior Developer<br />
       Cybersecurity Specialist
     </td>
     <td align="center" width="33%">
-      <img src="../assests/team_photos/page-04-photo-01.jpg" width="140" alt="Portrait of Sonjoy Das, Co-Founder & Senior Developer; AI/ML Specialist" /><br />
+      <img src="https://raw.githubusercontent.com/superscienceandtech/.github/main/assests/team_photos/page-04-photo-01.jpg" width="140" alt="Portrait of Sonjoy Das, Co-Founder & Senior Developer; AI/ML Specialist" /><br />
       <b>Sonjoy Das</b><br />
       Co-Founder & Senior Developer<br />
       AI/ML Specialist
@@ -87,25 +87,25 @@ A multidisciplinary team united by curiosity, rigor, and a shared drive to expan
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="../assests/team_photos/page-05-photo-01.jpg" width="140" alt="Portrait of MD. Mahtab Ahmed Mahin, Senior Developer" /><br />
+      <img src="https://raw.githubusercontent.com/superscienceandtech/.github/main/assests/team_photos/page-05-photo-01.jpg" width="140" alt="Portrait of MD. Mahtab Ahmed Mahin, Senior Developer" /><br />
       <b>MD. Mahtab Ahmed Mahin</b><br />
       Senior Developer
     </td>
     <td align="center" width="33%">
-      <img src="../assests/team_photos/page-06-photo-01.jpg" width="140" alt="Portrait of Shahriar Siyam, Senior Developer; Data Scientist Specialist" /><br />
+      <img src="https://raw.githubusercontent.com/superscienceandtech/.github/main/assests/team_photos/page-06-photo-01.jpg" width="140" alt="Portrait of Shahriar Siyam, Senior Developer; Data Scientist Specialist" /><br />
       <b>Shahriar Siyam</b><br />
       Senior Developer<br />
       Data Scientist Specialist
     </td>
     <td align="center" width="33%">
-      <img src="../assests/team_photos/page-07-photo-01.jpg" width="140" alt="Portrait of Sobuj Dev, Senior Graphics & UI/UX Designer" /><br />
+      <img src="https://raw.githubusercontent.com/superscienceandtech/.github/main/assests/team_photos/page-07-photo-01.jpg" width="140" alt="Portrait of Sobuj Dev, Senior Graphics & UI/UX Designer" /><br />
       <b>Sobuj Dev</b><br />
       Senior Graphics & UI/UX Designer
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="../assests/team_photos/page-12-photo-01.jpg" width="140" alt="Portrait of Mahidul Haque, Guest Developer & Cybersecurity Specialist" /><br />
+      <img src="https://raw.githubusercontent.com/superscienceandtech/.github/main/assests/team_photos/page-12-photo-01.jpg" width="140" alt="Portrait of Mahidul Haque, Guest Developer & Cybersecurity Specialist" /><br />
       <b>Mahidul Haque</b><br />
       Guest Developer & Cybersecurity Specialist
     </td>
@@ -119,24 +119,24 @@ A multidisciplinary team united by curiosity, rigor, and a shared drive to expan
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="../assests/team_photos/page-08-photo-01.jpg" width="140" alt="Portrait of MD. Sheik Rafiwol Karim Rafi, Intern & NASA Space Apps Project Member" /><br />
+      <img src="https://raw.githubusercontent.com/superscienceandtech/.github/main/assests/team_photos/page-08-photo-01.jpg" width="140" alt="Portrait of MD. Sheik Rafiwol Karim Rafi, Intern & NASA Space Apps Project Member" /><br />
       <b>MD. Sheik Rafiwol Karim Rafi</b><br />
       Intern & NASA Space Apps Project Member
     </td>
     <td align="center" width="33%">
-      <img src="../assests/team_photos/page-09-photo-01.jpg" width="140" alt="Portrait of Hridi Singha, Intern & NASA Space Apps Project Member" /><br />
+      <img src="https://raw.githubusercontent.com/superscienceandtech/.github/main/assests/team_photos/page-09-photo-01.jpg" width="140" alt="Portrait of Hridi Singha, Intern & NASA Space Apps Project Member" /><br />
       <b>Hridi Singha</b><br />
       Intern & NASA Space Apps Project Member
     </td>
     <td align="center" width="33%">
-      <img src="../assests/team_photos/page-10-photo-01.jpg" width="140" alt="Portrait of Amran Uddin, Intern & NASA Space Apps Project Member" /><br />
+      <img src="https://raw.githubusercontent.com/superscienceandtech/.github/main/assests/team_photos/page-10-photo-01.jpg" width="140" alt="Portrait of Amran Uddin, Intern & NASA Space Apps Project Member" /><br />
       <b>Amran Uddin</b><br />
       Intern & NASA Space Apps Project Member
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="../assests/team_photos/page-11-photo-01.jpg" width="140" alt="Portrait of Miss. Rini, Intern & NASA Space Apps Project Member" /><br />
+      <img src="https://raw.githubusercontent.com/superscienceandtech/.github/main/assests/team_photos/page-11-photo-01.jpg" width="140" alt="Portrait of Miss. Rini, Intern & NASA Space Apps Project Member" /><br />
       <b>Miss. Rini</b><br />
       Intern & NASA Space Apps Project Member
     </td>
@@ -150,17 +150,17 @@ A multidisciplinary team united by curiosity, rigor, and a shared drive to expan
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="../assests/team_photos/page-13-photo-01.jpg" width="140" alt="Portrait of MD Abdul Hakim Seyam, Marketing Lead" /><br />
+      <img src="https://raw.githubusercontent.com/superscienceandtech/.github/main/assests/team_photos/page-13-photo-01.jpg" width="140" alt="Portrait of MD Abdul Hakim Seyam, Marketing Lead" /><br />
       <b>MD Abdul Hakim Seyam</b><br />
       Marketing Lead
     </td>
     <td align="center" width="33%">
-      <img src="../assests/team_photos/page-15-photo-01.jpg" width="140" alt="Portrait of Muhammad Billal Khan, Marketing Team Member" /><br />
+      <img src="https://raw.githubusercontent.com/superscienceandtech/.github/main/assests/team_photos/page-15-photo-01.jpg" width="140" alt="Portrait of Muhammad Billal Khan, Marketing Team Member" /><br />
       <b>Muhammad Billal Khan</b><br />
       Marketing Team Member
     </td>
     <td align="center" width="33%">
-      <img src="../assests/team_photos/page-16-photo-01.jpg" width="140" alt="Portrait of Arafat Hossain, Marketing Team Member" /><br />
+      <img src="https://raw.githubusercontent.com/superscienceandtech/.github/main/assests/team_photos/page-16-photo-01.jpg" width="140" alt="Portrait of Arafat Hossain, Marketing Team Member" /><br />
       <b>Arafat Hossain</b><br />
       Marketing Team Member
     </td>
@@ -172,34 +172,34 @@ A multidisciplinary team united by curiosity, rigor, and a shared drive to expan
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="../assests/team_photos/page-17-photo-01.jpg" width="140" alt="Portrait of Shoumik Islam, Research Collaborator" /><br />
+      <img src="https://raw.githubusercontent.com/superscienceandtech/.github/main/assests/team_photos/page-17-photo-01.jpg" width="140" alt="Portrait of Shoumik Islam, Research Collaborator" /><br />
       <b>Shoumik Islam</b><br />
       Research Collaborator
     </td>
     <td align="center" width="33%">
-      <img src="../assests/team_photos/page-18-photo-01.jpg" width="140" alt="Portrait of Mufti Faiyaz, Research Collaborator" /><br />
+      <img src="https://raw.githubusercontent.com/superscienceandtech/.github/main/assests/team_photos/page-18-photo-01.jpg" width="140" alt="Portrait of Mufti Faiyaz, Research Collaborator" /><br />
       <b>Mufti Faiyaz</b><br />
       Research Collaborator
     </td>
     <td align="center" width="33%">
-      <img src="../assests/team_photos/page-19-photo-01.jpg" width="140" alt="Portrait of Mahfujur Rahman, Research Collaborator" /><br />
+      <img src="https://raw.githubusercontent.com/superscienceandtech/.github/main/assests/team_photos/page-19-photo-01.jpg" width="140" alt="Portrait of Mahfujur Rahman, Research Collaborator" /><br />
       <b>Mahfujur Rahman</b><br />
       Research Collaborator
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="../assests/team_photos/page-20-photo-01.jpg" width="140" alt="Portrait of Wahaj Rashid Arian, Research Collaborator" /><br />
+      <img src="https://raw.githubusercontent.com/superscienceandtech/.github/main/assests/team_photos/page-20-photo-01.jpg" width="140" alt="Portrait of Wahaj Rashid Arian, Research Collaborator" /><br />
       <b>Wahaj Rashid Arian</b><br />
       Research Collaborator
     </td>
     <td align="center" width="33%">
-      <img src="../assests/team_photos/page-21-photo-01.jpg" width="140" alt="Portrait of Mahidul Haque, Research Collaborator" /><br />
+      <img src="https://raw.githubusercontent.com/superscienceandtech/.github/main/assests/team_photos/page-21-photo-01.jpg" width="140" alt="Portrait of Mahidul Haque, Research Collaborator" /><br />
       <b>Mahidul Haque</b><br />
       Research Collaborator
     </td>
     <td align="center" width="33%">
-      <img src="../assests/team_photos/page-22-photo-01.jpg" width="140" alt="Portrait of Probal Datta, Research Collaborator" /><br />
+      <img src="https://raw.githubusercontent.com/superscienceandtech/.github/main/assests/team_photos/page-22-photo-01.jpg" width="140" alt="Portrait of Probal Datta, Research Collaborator" /><br />
       <b>Probal Datta</b><br />
       Research Collaborator
     </td>

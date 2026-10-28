@@ -49,6 +49,8 @@ We build robust, secure, and maintainable systems with an emphasis on responsibl
 
 ## Our Work
 
+- **[Research & Technology](https://github.com/superscienceandtech)** — Our core research and technology organization.
+- **[Super Science & Tech Agency](https://github.com/superscienceandtechagency)** — Our software development agency.
 - **[Public Repositories](https://github.com/superscienceandtech?tab=repositories)** — Explore our openly shared work as it becomes available.
 - **[Company Handbook](https://github.com/superscienceandtech/super-science-tech-handbook)** — Learn more about our context, values, and collaboration guidance.
 
